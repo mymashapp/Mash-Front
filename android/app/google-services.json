@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "637231012246",
+    "firebase_url": "https://mymashapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mymashapp",
+    "storage_bucket": "mymashapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637231012246:android:6be71c628d2734f44b65b7",
+        "android_client_info": {
+          "package_name": "com.example.mash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637231012246-n9hcn4r5e7rq85o95d2pq8hlfgg1ht17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjpACmtQOTCXshkua-K14JkrnONoKcUIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637231012246-n9hcn4r5e7rq85o95d2pq8hlfgg1ht17.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "637231012246-lbp3t5mc9clju6ju3tplslbeicai0q1d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mash"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
